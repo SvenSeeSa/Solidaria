@@ -1,0 +1,119 @@
+.pricing {
+	display: flex;
+	flex-direction: column;
+	box-shadow: 0px 20px 30px rgba(37, 42, 45, 0.15);
+	max-width: 380px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pricing .btn {
+	background-color: #134C92;
+}
+
+.pricing .btn::before {
+	background-color: #134C92;
+}
+
+.pricing * + .btn {
+	margin-top: 20px;
+}
+
+@media (min-width: 992px) {
+	.pricing * + .btn {
+		margin-top: 30px;
+	}
+}
+
+.pricing-active .pricing-head {
+	background-color: #134C92;
+}
+
+.pricing-active .btn {
+	background-color: #134C92;
+}
+
+.pricing-active .btn::before {
+	background-color: #134C92;
+}
+
+.pricing-head {
+	position: relative;
+	text-align: center;
+	background-color: #134C92;
+	padding: 30px 15px;
+}
+
+@media (min-width: 992px) {
+	.pricing-head {
+		padding-top: 44px;
+		padding-bottom: 46px;
+	}
+}
+
+.pricing-head::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 11px;
+	background-color: rgba(37, 42, 45, 0.25);
+}
+
+.pricing-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #fff;
+	padding: 30px 15px 35px;
+}
+
+@media (min-width: 992px) {
+	.pricing-body {
+		padding-top: 45px;
+		padding-bottom: 50px;
+	}
+}
+
+.pricing-price {
+	line-height: 1;
+}
+
+* + .pricing-price {
+	margin-top: 12px;
+}
+
+.pricing-price-currency {
+	font-size: .46em;
+	vertical-align: super;
+}
+
+.pricing-price-amount {
+	margin-left: 7px;
+}
+
+.pricing-list-item {
+	position: relative;
+	padding-left: 28px;
+	font-size: 18px;
+	color: #252A2D;
+}
+
+.pricing-list-item::before {
+	content: '\f222';
+	position: absolute;
+	top: 1px;
+	left: 0;
+	font-family: 'Material Design Icons';
+	color: #134C92;
+}
+
+.pricing-list-item + .pricing-list-item {
+	margin-top: 11px;
+}
+
+.pricing-list-item-disabled::before {
+	content: '\f24c';
+	color: #8D8D8D;
+}

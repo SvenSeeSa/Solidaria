@@ -1,0 +1,95 @@
+.link {
+	display: inline-block;
+}
+
+.page .link-arrow {
+	position: relative;
+	color: #252A2D;
+	transition: all 0.2s ease-in-out;
+	font-size: 18px;
+}
+
+.page .link-arrow::before {
+	width: 0;
+	display: inline-block;
+	font-family: 'Material Design Icons';
+	font-size: .83em;
+	color: #134C92;
+	content: '\f14f';
+	transition: inherit;
+	transform: scale(0);
+}
+
+.page .link-arrow:hover {
+	color: #252A2D;
+}
+
+.page .link-arrow:hover::before {
+	padding-right: 1.4em;
+	transform: scale(1);
+}
+
+.link-inherit {
+	color: inherit;
+}
+
+.link-inherit:hover {
+	color: #134C92;
+}
+
+.link-inherit-primary {
+	color: inherit;
+}
+
+.link-inherit-primary:hover {
+	color: #134C92;
+}
+
+.link-large {
+	font-size: 1.625rem;
+	font-family: "Prata", serif;
+	line-height: 3.125rem;
+	letter-spacing: 0;
+	color: #2B2123 !important;
+}
+.link-large:hover{
+	color: #134C92 !important;
+}
+
+@media (min-width: 1200px) {
+	.link-large {
+		font-size: 40px;
+	}
+}
+
+* + .link-container {
+	margin-top: 0.375rem;
+}
+
+.context-dark .link-arrow {
+	color: #fff;
+}
+
+.context-dark .link-arrow:hover {
+	color: #fff;
+}
+
+.context-dark .link-inherit:hover {
+	color: #fff;
+}
+
+.context-dark .link-inherit-primary {
+	color: inherit;
+}
+
+.context-dark .link-inherit-primary:hover {
+	color: #134C92;
+}
+
+.context-dark .link-contrast {
+	color: #fff;
+}
+
+.context-dark .link-contrast:hover {
+	color: #134C92;
+}

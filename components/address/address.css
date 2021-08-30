@@ -1,0 +1,38 @@
+.address {
+	padding: 1.25rem 0.9375rem;
+	background-color: #134C92;
+	border: 1px solid #e3e3e3;
+	border-radius: 3px;
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.address table {
+	width: 100%;
+}
+
+.address td {
+	padding-bottom: 0.5625rem;
+	vertical-align: baseline;
+}
+
+.address + p {
+	margin-top: 30px;
+}
+
+.address-title {
+	width: 112px;
+	color: #134C92;
+}
+
+* + .address {
+	margin-top: 1.25rem;
+}
+
+@media (min-width: 992px) {
+	.address {
+		padding: 1.8125rem 1.5rem 1.3125rem;
+	}
+	* + .address {
+		margin-top: 2.375rem;
+	}
+}
