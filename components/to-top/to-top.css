@@ -12,7 +12,6 @@
 	border-radius: 0;
 	box-shadow: none;
 	opacity: 0;
-	border: 2px solid #163350;
 	background: #fff;
 	color: #163350;
 	will-change: transform;
@@ -27,7 +26,6 @@
 }
 
 .to-top.active, .to-top:hover {
-	border: 2px solid #fff;
 	background: #163350;
 	color: #fff;
 	cursor: pointer;

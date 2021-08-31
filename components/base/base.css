@@ -71,6 +71,10 @@ address {
 	line-height: inherit;
 }
 
+.about-text{
+	text-align: justify;
+}
+
 ol,
 ul,
 dl {
