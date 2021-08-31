@@ -291,6 +291,13 @@
 	border-bottom: 1px solid #cfcfcf;
 }
 
+.cards{
+	border: 1px solid #134C92;
+	border-radius: 20px;
+	padding: 15px;
+	text-align: center;
+}
+
 .post-line-hover::before {
 	position: absolute;
 	bottom: 0;
