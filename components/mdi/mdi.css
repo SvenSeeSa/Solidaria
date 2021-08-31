@@ -1111,6 +1111,7 @@
 
 .mdi-cellphone:before {
 	content: '\f212';
+	color: #163350;
 }
 
 .mdi-cellphone-android:before {
