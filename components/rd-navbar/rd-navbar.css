@@ -72,7 +72,7 @@
 	align-items: center;
 	font-size: 0.8125rem;
 	color: #fff;
-	background-color: #134C92;
+	background-color: #163350;
 	border-radius: 50%;
 	transition: .25s, color 0s;
 }
@@ -108,7 +108,7 @@
 
 .navbar-social-icon:hover {
 	background-color: #fff;
-	color: #134C92;
+	color: #163350;
 }
 
 .navbar-cart-item-heading {
@@ -287,7 +287,7 @@
 }
 
 .rd-navbar-fixed .navbar-info-icon {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-info-link {
@@ -297,7 +297,7 @@
 }
 
 .rd-navbar-fixed .navbar-info-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-button::before {
@@ -328,11 +328,11 @@
 }
 
 .rd-navbar-fixed .navbar-list-link {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-list-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-contact-btn {
@@ -389,15 +389,15 @@
 }
 
 .rd-navbar-fixed .navbar-cart-item-heading:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-cart-item-heading:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-cart-item-price-value {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-cart-remove {
@@ -406,7 +406,7 @@
 }
 
 .rd-navbar-fixed .navbar-cart-remove:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-cart-total {
@@ -492,14 +492,14 @@
 .rd-navbar-fixed .navbar-navigation-root-link:hover,
 .rd-navbar-fixed .navbar-navigation-megamenu-link:hover,
 .rd-navbar-fixed .navbar-navigation-dropdown-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-navigation-dropdown-item.active > .navbar-navigation-dropdown-link,
 .rd-navbar-fixed .navbar-navigation-dropdown-item.active > .navbar-navigation-root-link,
 .rd-navbar-fixed .navbar-navigation-root-item.active > .navbar-navigation-dropdown-link,
 .rd-navbar-fixed .navbar-navigation-root-item.active > .navbar-navigation-root-link {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-navigation-back-btn {
@@ -507,7 +507,7 @@
 	padding: 14px 30px;
 	font-size: 1.3077rem;
 	font-weight: 500;
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .navbar-navigation-back-btn::before {
@@ -554,7 +554,7 @@
 }
 
 .rd-navbar-fixed .rd-navbar-submenu-toggle:hover::before {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fixed .rd-navbar-submenu {
@@ -768,7 +768,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-list-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-list-button {
@@ -784,7 +784,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-info-icon {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-info-link {
@@ -794,7 +794,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-info-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-contact-btn {
@@ -867,7 +867,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-cart-item-heading:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-cart-total {
@@ -875,7 +875,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-cart-item-price-value {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-cart-remove {
@@ -885,7 +885,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-cart-remove:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth * + .navbar-cart-total {
@@ -985,7 +985,7 @@
 	box-shadow: 5px 8px 28px rgba(37, 42, 45, 0.15);
 	transition: .2s;
 	background-color: #fff;
-	border-bottom: 2px solid #134C92;
+	border-bottom: 2px solid #163350;
 	border-radius: 2px;
 }
 
@@ -1021,7 +1021,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-navigation-dropdown-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-navigation-dropdown-link:hover::before {
@@ -1029,7 +1029,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-navigation-dropdown-link:hover + .rd-navbar-submenu-toggle {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-navigation-megamenu {
@@ -1107,7 +1107,7 @@
 }
 
 .rd-navbar-fullwidth .navbar-navigation-megamenu-link:hover + .rd-navbar-submenu-toggle {
-	color: #134C92;
+	color: #163350;
 }
 
 .rd-navbar-fullwidth .navbar-navigation-megamenu-heading + .navbar-navigation-megamenu-row,
@@ -1174,5 +1174,5 @@
 .rd-navbar-fullwidth .rd-navbar-submenu.focus > .navbar-navigation-dropdown-link,
 .rd-navbar-fullwidth .rd-navbar-submenu.focus > .navbar-navigation-megamenu-link, .rd-navbar-fullwidth .rd-navbar-submenu.opened > .navbar-navigation-dropdown-link,
 .rd-navbar-fullwidth .rd-navbar-submenu.opened > .navbar-navigation-megamenu-link {
-	color: #134C92;
+	color: #163350;
 }

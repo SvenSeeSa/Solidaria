@@ -21,7 +21,7 @@
 	right: 0;
 	height: 0;
 	content: '';
-	background-color: #134C92;
+	background-color: #163350;
 	transition: all 0.2s ease-in-out;
 }
 
@@ -66,7 +66,7 @@
 	content: '';
 	width: 15px;
 	height: 1px;
-	background-color: #134C92;
+	background-color: #163350;
 	transform: translateX(-7px);
 }
 
@@ -134,7 +134,7 @@
 }
 
 .thumbnail-light .thumbnail-subtitle {
-	color: #134C92;
+	color: #163350;
 }
 
 .thumbnail-light .thumbnail-divider {
@@ -148,7 +148,7 @@
 	width: 28px;
 	margin-top: 0;
 	margin-bottom: 0;
-	border-top: 1px solid #134C92;
+	border-top: 1px solid #163350;
 	content: "";
 }
 
@@ -203,7 +203,7 @@
 .thumbnail-ordered .thumbnail-number::before {
 	width: 0;
 	content: '';
-	border-bottom: 1px solid #134C92;
+	border-bottom: 1px solid #163350;
 	transition: inherit;
 }
 

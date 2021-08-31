@@ -32,7 +32,7 @@
 	padding: 20px 50px 30px 25px;
 	color: #fff;
 	pointer-events: none;
-	background-color: #134C92;
+	background-color: #163350;
 	transition: inherit;
 }
 
@@ -65,7 +65,7 @@
 @media (min-width: 992px) {
 	.desktop .thumbnail-over-caption {
 		opacity: 0;
-		background-color: #134C92;
+		background-color: #163350;
 	}
 	.desktop .thumbnail-over:hover .thumbnail-over-caption {
 		top: 0;

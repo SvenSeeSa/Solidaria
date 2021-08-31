@@ -14,7 +14,7 @@
 	display: inline-block;
 	font-family: 'Material Design Icons';
 	font-size: .83em;
-	color: #134C92;
+	color: #163350;
 	content: '\f14f';
 	transition: inherit;
 	transform: scale(0);
@@ -34,7 +34,7 @@
 }
 
 .link-inherit:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .link-inherit-primary {
@@ -42,7 +42,7 @@
 }
 
 .link-inherit-primary:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .link-large {
@@ -53,7 +53,7 @@
 	color: #2B2123 !important;
 }
 .link-large:hover{
-	color: #134C92 !important;
+	color: #163350 !important;
 }
 
 @media (min-width: 1200px) {
@@ -83,7 +83,7 @@
 }
 
 .context-dark .link-inherit-primary:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .context-dark .link-contrast {
@@ -91,5 +91,5 @@
 }
 
 .context-dark .link-contrast:hover {
-	color: #134C92;
+	color: #163350;
 }

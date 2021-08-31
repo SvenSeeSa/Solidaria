@@ -354,7 +354,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
-	border-color: #134C92;
+	border-color: #163350;
 }
 
 .lg-outer .lg-thumb-item img {
@@ -513,7 +513,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-progress-bar .lg-progress {
-	background-color: #134C92;
+	background-color: #163350;
 	height: 5px;
 	width: 0;
 }

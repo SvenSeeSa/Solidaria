@@ -1,11 +1,11 @@
 .product-overview-price-old {
 	margin-right: 1em;
 	text-decoration: line-through;
-	color: #134C92;
+	color: #163350;
 }
 
 .product-overview-price-new {
-	color: #134C92;
+	color: #163350;
 }
 
 * + .product-overview-price {

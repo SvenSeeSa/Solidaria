@@ -45,7 +45,7 @@ html:not(.ie-11):not(.ie-10) .countdown-circle {
 }
 
 .countdown-circle-fg {
-	stroke: #134C92;
+	stroke: #163350;
 	stroke-width: 3px;
 }
 
@@ -64,7 +64,7 @@ html:not(.ie-11):not(.ie-10) .countdown-circle {
 	line-height: 1.2;
 	letter-spacing: 0.04em;
 	text-transform: uppercase;
-	color: #134C92;
+	color: #163350;
 }
 
 * + .countdown {

@@ -144,15 +144,15 @@
 }
 
 .owl-carousel .owl-dot:hover {
-	border-color: #134C92;
+	border-color: #163350;
 }
 
 .owl-carousel .owl-dot.active {
-	border-color: #134C92;
+	border-color: #163350;
 }
 
 .owl-carousel .owl-dot.active::before {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 * + .owl-content-1 {
@@ -210,12 +210,12 @@
 .owl-nav-lg .owl-prev:hover,
 .owl-nav-lg .owl-next:hover {
 	color: #fff;
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .owl-nav-lg .owl-prev.disabled,
 .owl-nav-lg .owl-next.disabled {
-	color: #134C92;
+	color: #163350;
 	opacity: .3;
 	cursor: default;
 	pointer-events: none;
@@ -252,15 +252,15 @@
 }
 
 .context-dark .owl-carousel .owl-dot:hover {
-	border-color: #134C92;
+	border-color: #163350;
 }
 
 .context-dark .owl-carousel .owl-dot.active {
-	border-color: #134C92;
+	border-color: #163350;
 }
 
 .context-dark .owl-carousel .owl-dot.active::before {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 @media (min-width: 1200px) {
@@ -338,11 +338,11 @@
 	.owl-carousel-bordered.owl-nav-lg .owl-prev:hover,
 	.owl-carousel-bordered.owl-nav-lg .owl-next:hover {
 		color: #fff;
-		background-color: #134C92;
+		background-color: #163350;
 	}
 	.owl-carousel-bordered.owl-nav-lg .owl-prev.disabled,
 	.owl-carousel-bordered.owl-nav-lg .owl-next.disabled {
-		color: #134C92;
+		color: #163350;
 		opacity: .3;
 	}
 }

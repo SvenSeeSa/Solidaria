@@ -1,6 +1,6 @@
 .address {
 	padding: 1.25rem 0.9375rem;
-	background-color: #134C92;
+	background-color: #163350;
 	border: 1px solid #e3e3e3;
 	border-radius: 3px;
 	color: rgba(255, 255, 255, 0.8);
@@ -21,7 +21,7 @@
 
 .address-title {
 	width: 112px;
-	color: #134C92;
+	color: #163350;
 }
 
 * + .address {

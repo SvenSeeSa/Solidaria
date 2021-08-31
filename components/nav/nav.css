@@ -16,7 +16,7 @@
 }
 
 .nav-link.disabled {
-	color: #134C92;
+	color: #163350;
 	pointer-events: none;
 	cursor: default;
 }
@@ -40,7 +40,7 @@
 }
 
 .nav-tabs .nav-link.disabled {
-	color: #134C92;
+	color: #163350;
 	background-color: transparent;
 	border-color: transparent;
 }
@@ -65,7 +65,7 @@
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .nav-fill .nav-item {
@@ -117,17 +117,17 @@
 
 .nav-classic .nav-link {
 	padding: 0;
-	color: #134C92;
+	color: #163350;
 	font-size: 0.8125rem;
 	text-transform: uppercase;
 }
 
 .nav-classic .nav-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .nav-classic .nav-link.active {
-	color: #134C92;
+	color: #163350;
 }
 
 .nav-classic .nav-item:not(:last-child) {
@@ -144,7 +144,7 @@
 	position: relative;
 	padding: 1.25rem 0.9375rem;
 	color: #fff;
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .nav-creative {
@@ -176,7 +176,7 @@
 }
 
 .nav-creative .nav-link:hover, .nav-creative .nav-link.active {
-	color: #134C92;
+	color: #163350;
 }
 
 .nav-creative .nav-link:hover::after, .nav-creative .nav-link.active::after {

@@ -1,5 +1,5 @@
 .widget-title {
-	color: #134C92;
+	color: #163350;
 }
 
 .widget-body {
@@ -15,7 +15,7 @@
 }
 
 .context-dark .widget-title {
-	color: #134C92;
+	color: #163350;
 }
 
 @media (min-width: 1600px) {

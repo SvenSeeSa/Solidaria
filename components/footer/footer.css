@@ -32,7 +32,7 @@
 }
 
 .context-dark .footer-menu > li > a:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 @media (min-width: 992px) {
@@ -57,7 +57,7 @@
 }
 
 .footer-extended .icon-link:hover {
-	color: #134C92;
+	color: #163350;
 }
 
 .footer-extended.context-dark,

@@ -8,11 +8,11 @@
 }
 
 .pricing .btn {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .pricing .btn::before {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .pricing * + .btn {
@@ -26,21 +26,21 @@
 }
 
 .pricing-active .pricing-head {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .pricing-active .btn {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .pricing-active .btn::before {
-	background-color: #134C92;
+	background-color: #163350;
 }
 
 .pricing-head {
 	position: relative;
 	text-align: center;
-	background-color: #134C92;
+	background-color: #163350;
 	padding: 30px 15px;
 }
 
@@ -106,7 +106,7 @@
 	top: 1px;
 	left: 0;
 	font-family: 'Material Design Icons';
-	color: #134C92;
+	color: #163350;
 }
 
 .pricing-list-item + .pricing-list-item {

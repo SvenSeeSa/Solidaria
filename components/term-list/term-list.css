@@ -25,7 +25,7 @@ dt {
 	content: '';
 	width: 0.625rem;
 	height: 1px;
-	background-color: #134C92;
+	background-color: #163350;
 	transform: translateX(-5px);
 }
 
@@ -46,7 +46,7 @@ dt {
 }
 
 .term-list-inline dd {
-	color: #134C92;
+	color: #163350;
 }
 
 .term-list-inline + .term-list-inline {

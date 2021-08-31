@@ -12,9 +12,9 @@
 	border-radius: 0;
 	box-shadow: none;
 	opacity: 0;
-	border: 2px solid #134C92;
+	border: 2px solid #163350;
 	background: #fff;
-	color: #134C92;
+	color: #163350;
 	will-change: transform;
 	z-index: 10;
 	transition: .2s;
@@ -28,7 +28,7 @@
 
 .to-top.active, .to-top:hover {
 	border: 2px solid #fff;
-	background: #134C92;
+	background: #163350;
 	color: #fff;
 	cursor: pointer;
 }

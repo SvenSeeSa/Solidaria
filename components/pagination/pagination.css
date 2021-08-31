@@ -20,7 +20,7 @@
 	z-index: 2;
 	color: #fff;
 	text-decoration: none;
-	background-color: #134C92;
+	background-color: #163350;
 	border-color: #dee2e6;
 }
 
@@ -43,9 +43,9 @@
 
 .page-item.active .page-link {
 	z-index: 1;
-	color: #134C92;
+	color: #163350;
 	background-color: transparent;
-	border-color: #134C92;
+	border-color: #163350;
 }
 
 .page-item.disabled .page-link {

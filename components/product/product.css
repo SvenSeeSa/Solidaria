@@ -9,7 +9,7 @@
 }
 
 .product-price {
-	color: #134C92;
+	color: #163350;
 }
 
 * + .product-title {
@@ -47,7 +47,7 @@
 }
 
 .product-small .product-price {
-	color: #134C92;
+	color: #163350;
 }
 
 * + .product-small {

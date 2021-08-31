@@ -4,7 +4,7 @@
 
 .blurb-icon {
 	font-size: 2.15rem;
-	color: #134C92;
+	color: #163350;
 }
 
 .blurb-icon-left {
@@ -97,7 +97,7 @@
 .blurb-link::before {
 	width: 0;
 	content: '';
-	border-bottom: 1px solid #134C92;
+	border-bottom: 1px solid #163350;
 	transition: inherit;
 }
 
