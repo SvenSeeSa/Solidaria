@@ -466,17 +466,22 @@
           </div>
           <form class="rd-mailform rd-form" data-form-output="form-consultation" data-form-type="contact" method="post" action="components/rd-mailform/rd-mailform.php">
             <div class="row row-25 row-gutters-24">
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div class="form-group">
                   <input class="form-control" type="text" name="name" placeholder="Nombre*" data-constraints="@Required">
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <input class="form-control" type="text" name="id" placeholder="Identificación*" data-constraints="@Required">
+                </div>
+              </div>
+              <div class="col-md-6">
                 <div class="form-group">
                   <input class="form-control" type="text" name="phone" placeholder="Teléfono*" data-constraints="@PhoneNumber @Required">
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div class="form-group">
                   <input class="form-control" type="email" name="email" placeholder="E-mail*" data-constraints="@Email @Required">
                 </div>
