@@ -127,6 +127,19 @@ sup {
 	top: -.5em;
 }
 
+.footer-text{
+	text-align: center;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.logo-container{
+	text-align: center;
+}
+
 a {
 	color: #163350; /*134C92*/
 	text-decoration: none;
@@ -5618,7 +5631,7 @@ button.bg-800:focus {
 }
 
 .bg-900 {
-	background-color: var(--solidaria-brown);
+	background-color: var(--solidaria-blue);
 }
 
 a.bg-900:hover, a.bg-900:focus,
