@@ -562,7 +562,9 @@ h6, .h6 {
 	transition: all 0.5s;
 }
 
-
+.page-title-text{
+	color: var(--solidaria-blue);
+}
 
 .btnClose{
 	background-color: #fff;
