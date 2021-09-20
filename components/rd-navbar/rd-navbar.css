@@ -114,6 +114,21 @@
 	color: #fff;
 }
 
+.navbar-social-icon-2 {
+	margin: 1rem;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #FFF;
+	transition: all 0.2s ease-in-out;
+	font-size: 1.25rem;
+}
+
+.navbar-social-icon-2:hover {
+	color: #E83D5B;
+}
+
 .navbar-cart-item-heading {
 	line-height: 1.25;
 }
@@ -494,6 +509,8 @@
 .rd-navbar-fixed .navbar-navigation-megamenu-link + .rd-navbar-submenu-toggle,
 .rd-navbar-fixed .navbar-navigation-dropdown-link + .rd-navbar-submenu-toggle {
 	display: flex;
+	margin-top: 4px;
+	font-size: 1em;
 }
 
 .rd-navbar-fixed .navbar-navigation-root-link:hover,
@@ -558,10 +575,12 @@
 .rd-navbar-fixed .rd-navbar-submenu-toggle::before {
 	content: '\f238';
 	font-family: 'Material Design Icons';
+	color:#163350;
 }
 
 .rd-navbar-fixed .rd-navbar-submenu-toggle:hover::before {
 	color: #163350;
+	cursor: pointer;
 }
 
 .rd-navbar-fixed .rd-navbar-submenu {

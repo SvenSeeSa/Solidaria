@@ -500,6 +500,10 @@ h6, .h6 {
     height: 5rem !important;
 }
 
+.card-title-promos{
+	height: 4rem;
+}
+
 .promos-subtitle{
 	color: #fff;
 	background: var(--solidaria-blue);
@@ -533,6 +537,58 @@ h6, .h6 {
 }
 
 .post-title:hover{
+	color: var(--solidaria-red);
+}
+
+.btnInfo{
+	background-color: #163350;
+	color: #fff;
+	font-size: 1.5em;
+	padding: 0 12px;
+	border-radius: 50%;
+}
+
+.modal{
+	display: none;
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	left: 15px;
+	top: 0;
+	width: 92%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: #163350;
+	border-radius: 21px;
+	transition: all 0.5s;
+}
+
+
+
+.btnClose{
+	background-color: #fff;
+	color: #163350;
+	font-size: 1.5em;
+	padding: 0 12px;
+	border-radius: 50%;
+}
+
+.btnClose:hover,
+.btnClose:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-content{
+	margin: 2rem 0;
+	color: #fff;
+}
+
+.mail{
+	color: #fff;
+}
+
+.mail:hover{
 	color: var(--solidaria-red);
 }
 
