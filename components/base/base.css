@@ -566,6 +566,10 @@ h6, .h6 {
 	color: var(--solidaria-blue);
 }
 
+.benefits-title{
+	margin-left: 9%;
+}
+
 .btnClose{
 	background-color: #fff;
 	color: #163350;
@@ -785,6 +789,18 @@ mark,
 	}
 	.text-lg-center {
 		text-align: center !important;
+	}
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 500px) {
+	.promos-subtitle{
+		font-size: 14px;
+		padding: 0 5px;
+	}
+
+	.descuentos-img{
+		width: 75%;
+		height: 100%;
 	}
 }
 
