@@ -134,6 +134,23 @@ sup {
     -ms-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
+	color: #fff;
+	width: 750px;
+}
+
+.fa-hands-helping{
+	font-size: 30px;
+    margin-left: 15px;
+}
+
+.fa-hand-holding-usd{
+	font-size: 30px;
+    margin-left: 15px;
+}
+
+.fa-sitemap{
+	font-size: 30px;
+    margin-left: 15px;
 }
 
 .logo-container{
@@ -742,6 +759,28 @@ mark,
 
 .text-center {
 	text-align: center !important;
+}
+
+.footer-content{
+	margin-top: 2rem;
+	display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+	align-items: flex-end;
+}
+
+.foot{
+	margin-top: 2rem;
+}
+
+.privacy{
+	display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
 }
 
 @media (min-width: 480px) {
