@@ -579,8 +579,11 @@ h6, .h6 {
 	transition: all 0.5s;
 }
 
-.page-title-text{
+.page-title-header{
 	color: var(--solidaria-blue);
+	background-color: rgba(0, 0, 0, 0.550);
+	padding: 1rem;
+	width: auto;
 }
 
 .benefits-title{
