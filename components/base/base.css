@@ -590,6 +590,14 @@ h6, .h6 {
 	margin-left: 9%;
 }
 
+.col-lg-9{
+	padding: 1rem;
+}
+
+.list-back{
+	background: rgba(0, 0, 0, 0.411);
+}
+
 .btnClose{
 	background-color: #fff;
 	color: #163350;
